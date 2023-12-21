@@ -1,7 +1,7 @@
 # Invoker script(macro): py
  Invoker script for playing invoker like a God.
  you have to install python and pip install keyboard.
- Engoy using it,this script tested and have no ban.
+ Enjoy using it,this script tested and have no ban.
  binds:
     '1': coldsnap,
     'f1': instantInvis,
